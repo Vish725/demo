@@ -2,8 +2,6 @@
     {
         "id":"1"
         "name":"Assasins Creed Syndicate",
-        "price":"$5",
-        "img":"https://image.api.playstation.com/cdn/UP0001/CUSA02389_00/D13Uumix6SG8IluaXuikr3UT5bhfDwen.png",
         "details":"Assasin's Creed syndicate is the 5th in Assasin's Creed Franchise. Released 2002"
-    },
+    }
 }
